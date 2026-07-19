@@ -1,4 +1,4 @@
-#  Sales Forecasting Engine for BrightMart Retail Limited
+#  Case Study - Sales Forecasting Engine with Python
 
 ## Project Overview
 
