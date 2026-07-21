@@ -84,7 +84,7 @@ This project applies several core Python concepts, including:
 The project begins by creating stock variables using appropriate Python data types
 
 <p align="center">
-<img src="./screenshots/Creating Stock Variables.png" width="900">
+<img src="./screenshot/Creating Stock Variables.png" width="900">
 </p>
 
 ## 2. Demonstrating Provided Stocks Data
@@ -92,34 +92,34 @@ This Application stores stock's data such as selling price, units sold, weekly s
 
 #### Product Data 1: Wireless Mouse
 <p align="center">
-<img src="./screenshots/Product Data 1.png" width="900">
+<img src="./screenshot/Product Data 1.png" width="900">
 </p>
 
 #### Product Data 2: Bluetooth Speaker
 <p align="center">
-<img src="./screenshots/Product Data 2.png" width="900">
+<img src="./screenshot/Product Data 2.png" width="900">
 </p>
 
 ## 3. Calculating Key Business Metrics
 The key business metrics were then evaluated
 
 <p align="center">
-<img src="./screenshots/Calculating Key Business Metrics.png" width="900">
+<img src="./screenshot/Calculating Key Business Metrics.png" width="900">
 </p>
 
 <p align="center">
-<img src="./screenshots/Calculating key Business Metrics 2.png" width="900">
+<img src="./screenshot/Calculating key Business Metrics 2.png" width="900">
 </p>
 
 ## 4. Forecast Report of Both Products Demonstrated
 #### Forecast Report on Product 1: Wireless Mouse
 <p align="center">
-<img src="./screenshots/Forecast Report 1.png" width="900">
+<img src="./screenshot/Forecast Report 1.png" width="900">
 </p
 
 #### Forecast Report on Product 2: Bluetooth Speaker
 <p align="center">
-<img src="./screenshots/Forecast Report 2.png" width="900">
+<img src="./screenshot/Forecast Report 2.png" width="900">
 </p>
 
   ---
@@ -137,7 +137,7 @@ This project helps answer questions such as:
 ---
 
 <p align="center">
-<img src="./screenshots/Business Questions Answered.png" width="900">
+<img src="./screenshot/Business Questions Answered.png" width="900">
 </p>
 
 ---
