@@ -8,6 +8,10 @@ The objective of the project is to analyze weekly sales performance for two reta
 
 This project demonstrates the application of Python fundamentals to solve practical business problems and serves as one of my first hands-on data analytics projects.
 
+<p align="center">
+<img src="./screenshot/cover-photo.png" width="900">
+</p>
+
 ---
 
 ## Business Scenario
