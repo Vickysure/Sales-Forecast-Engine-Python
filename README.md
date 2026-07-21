@@ -26,12 +26,6 @@ Using Python, this project analyzes:
 
 ---
 
-<p align="center">
-<img src="./screenshots/Creating Stock Variables.png" width="900">
-</p>
-
----
-
 ## Products Analyzed
 
 -  Wireless Mouse
@@ -85,13 +79,39 @@ This project applies several core Python concepts, including:
 - Restocking Status
 
 ---
+# Project Walkthrough
+## 1. Creating Stock Variables
+The project begins by creating stock variables using appropriate Python data types
+
 <p align="center">
-<img src="./screenshots/Calculating Key Business Metrics.png/Calculating Key Business Metrics 2.png" width="900">
+<img src="./screenshots/Creating Stock Variables.png" width="900">
 </p>
 
----
-## Forecast Report of Both Products Demonstrated
+## 2. Provided Stock Data
+This Application stores stock's data such as selling price, units sold, weekly sales target, forecast growth rate, current stock quantity and minimum stock level.
 
+#### Product Data 1: Wireless Mouse
+<p align="center">
+<img src="./screenshots/Product Data 1.png" width="900">
+</p>
+
+#### Product Data 2: Bluetooth Speaker
+<p align="center">
+<img src="./screenshots/Product Data 2.png" width="900">
+</p>
+
+## 3. Calculating Key Business Metrics
+The key business metrics were then evaluated
+
+<p align="center">
+<img src="./screenshots/Calculating Key Business Metrics.png" width="900">
+</p>
+
+<p align="center">
+<img src="./screenshots/Calculating key Business Metrics 2.png" width="900">
+</p>
+
+## 4. Forecast Report of Both Products Demonstrated
 #### Forecast Report on Product 1: Wireless Mouse
 <p align="center">
 <img src="./screenshots/Forecast Report 1.png" width="900">
