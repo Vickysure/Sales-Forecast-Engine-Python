@@ -87,7 +87,7 @@ The project begins by creating stock variables using appropriate Python data typ
 <img src="./screenshots/Creating Stock Variables.png" width="900">
 </p>
 
-## 2. Provided Stock Data
+## 2. Demonstrating Provided Stocks Data
 This Application stores stock's data such as selling price, units sold, weekly sales target, forecast growth rate, current stock quantity and minimum stock level.
 
 #### Product Data 1: Wireless Mouse
